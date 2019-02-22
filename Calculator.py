@@ -8,4 +8,4 @@ for line in fileinput.input():
 
 
 result=int(lines[0])+int(lines[1])
-print(result)
+print(str(result))
